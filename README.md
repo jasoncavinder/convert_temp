@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-<!-- [![Contributors][contributors-shield]][contributors-url] -->
-
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -20,8 +18,6 @@
     <a href="https://github.com/jasoncavinder/convert_temp"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <!-- <a href="https://github.com/jasoncavinder/convert_temp">View Demo</a>
-    · -->
     <a href="https://github.com/jasoncavinder/convert_temp/issues">Report Bug</a>
     ·
     <a href="https://github.com/jasoncavinder/convert_temp/issues">Request Feature</a>
@@ -47,7 +43,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -58,7 +53,7 @@
 
 ## About The Project
 
-[Convert Temp Screen Shot][product-screenshot]
+![Convert Temp Screen Shot][product-screenshot]
 
 I'm learning Rust by working through ["The Book"](https://doc.rust-lang.org/stable/book/) and building simple projects to practice the concepts discussed in various chapters. This is one of those projects.
 
@@ -205,7 +200,6 @@ Project Link: [https://github.com/jasoncavinder/convert_temp](https://github.com
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/jasoncavinder/convert_temp.svg?style=for-the-badge
 [contributors-url]: https://github.com/jasoncavinder/convert_temp/graphs/contributors
