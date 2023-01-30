@@ -66,15 +66,16 @@ I'm learning Rust by working through ["The Book"](https://doc.rust-lang.org/stab
 
 You made it! This was a sizable chapter: you learned about variables, scalar and compound data types, functions, comments, if expressions, and loops! To practice with the concepts discussed in this chapter, try building programs to do the following:
 
-[x] Convert temperatures between Fahrenheit and Celsius.  
-[ ] Generate the nth Fibonacci number.  
-[ ] Print the lyrics to the Christmas carol “The Twelve Days of Christmas,” taking advantage of the repetition in the song.
+- [x] Convert temperatures between Fahrenheit and Celsius.
+- [ ] Generate the nth Fibonacci number.
+- [ ] Print the lyrics to the Christmas carol “The Twelve Days of Christmas,” taking advantage of the repetition in the song.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
 - [![Rust][rust-lang]][rust-url]
+- [![VS Code][vs-code]][vs-code-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -219,8 +220,10 @@ Project Link: [https://github.com/jasoncavinder/convert_temp](https://github.com
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jason-cavinder
 [product-screenshot]: images/screenshot.png
-[rust-lang]: https://img.shields.io/badge/Rust-181212?style=for-the-badge&logo=Rust&logoColor=685040
+[rust-lang]: https://img.shields.io/badge/Rust-120712?style=for-the-badge&logo=Rust&logoColor=B94700
 [rust-url]: https://www.rust-lang.org/
+[vs-code]: https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=0078D7
+[vs-code-url]: https://code.visualstudio.com/
 
 <!--
 README.md based on [othneildrew/Best-README-Template]: https://github.com/othneildrew/Best-README-Template
